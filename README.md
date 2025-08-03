@@ -2,6 +2,9 @@
 
 This is the frontend for a LinkedIn-like social platform built using React, React Router, and Axios. It connects to a Node.js + Express + MongoDB backend to support user authentication, posting, profiles, and feed functionality.
 
+## live link
+https://musical-croquembouche-a7696c.netlify.app/
+
 ## 🚀 Features
 
 - User authentication (login/register)
